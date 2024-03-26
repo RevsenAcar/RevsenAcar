@@ -2,7 +2,7 @@
 ![hi](https://github.com/RevsenAcar/RevsenAcar/assets/160133415/817f9698-b73d-46b9-b396-1d00f8d0087d)
 
 <h1 align="center">Merhaba, ben Revşen Acar</h1>
-- 🌱Yazılım kalite ve test uzmanı eğitimi  @TOBETO
+- 🌱Yazılım kalite ve test uzmanı eğitimi  **@TOBETO**
 
 
 <h3 align="left">Languages and Tools:</h3>
