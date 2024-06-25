@@ -4,7 +4,7 @@
 
 
 <h3 style="color: #2c3e50;"> <strong> Ben Revşen Acar </strong></h3>
-<p style="font-size: 1.2em; color: #27ae60;">🌱 <strong>Yazılım Kalite ve Test Uzmanı Eğitimi</strong> @ <strong>Tobeto</strong></p>
+<p style="font-size: 1.2em; color: #27ae60;">🌱 <strong>Yazılım Kalite ve Test Uzmanı Eğitimi</strong> <strong>@Tobeto</strong></p>
 
 
 
