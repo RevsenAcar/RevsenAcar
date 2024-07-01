@@ -38,10 +38,10 @@
   </a>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.getxray.app" target="_blank" rel="noreferrer">
-    <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1557766151/xray.png" alt="xray" width="40" height="40"/>
-  </a>
+</a>
+<a href="https://www.getxray.app" target="_blank" rel="noreferrer">
+  <img src="https://marketplace.atlassian.com/files/11638493-3ff7-4f84-9f2d-cd10d8a599dc?fileType=image&mode=full-fit" alt="xray" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+</a>
 </p>
 
 ![18e0dff40f35378225b6fb28d723fd40](https://github.com/RevsenAcar/RevsenAcar/assets/160133415/fe48d918-ce1b-4f8f-bb05-4bf91e19f311)
